@@ -13,7 +13,7 @@ Start using Skeleton with Jekyll:
 ### Scaffolding
 
 The repo includes Skeleton's base CSS, image files (A favicon), and index.html. The head content has been moved into an include and the default layout contains everything except for the content div's of Skeleton's index.html.
-'''
+```
 Skeleton-framework-jekyll/
 ├── index.html
 ├── _config.yml
@@ -28,7 +28,7 @@ Skeleton-framework-jekyll/
 ├── feed.xml
 └── images
     └── favicon.png
-'''
+```
 ## License
 All parts of Skeleton-framework-jekyll are free to use and abuse under the [open-source MIT license](https://github.com/bradfordlynch/Skeleton-framework-jekyll/blob/master/LICENSE.md).
 
