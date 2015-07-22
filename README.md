@@ -12,7 +12,7 @@ Start using Skeleton with Jekyll:
 
 ### Scaffolding
 
-The repo includes Skeleton's base CSS, image files (A favicon), and index.html. The head content has been moved into an include and the default layout contains everything except for the content div's of Skeleton's index.html.
+Included is Skeleton's base CSS, image files (A favicon), and index.html. The head content has been moved into an include and the default layout contains everything except for the content div's of Skeleton's index.html.
 ```
 Skeleton-framework-jekyll/
 ├── index.html
